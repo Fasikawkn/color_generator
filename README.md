@@ -1,10 +1,9 @@
 # Color Generator App
 
 ## Functionality of the app
-  - Tap anywhere on the screen to instantly change the background color to a randomly generated color with smooth color transformation.
-  - Adaptive text color: Text in the center dynamically adjusts between white and black based on the background color, ensuring optimal       readability.
-  - Color history: Browse through a curated collection of previously generated colors.
-  - Select and apply: Choose your favorite color from the history list and apply it as the new background with a single tap.
+  - **Dynamic Color Transformation:** Through a simple tap on the screen, the background color transforms smoothly to a randomly generated color.
+- **Adaptive Text Color:** To ensure readability and aesthetic coherence, the app's central text adapts intelligently between white and black based on the background color.
+- **Color History and Application:** The app enables users to explore a curated history of previously generated colors. Additionally, users can select their preferred color from the history list and apply it as the new background with ease.
 
 ## Screenshots
 
