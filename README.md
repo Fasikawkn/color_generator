@@ -1,12 +1,17 @@
-# flutter_project_template
-📖 Template for flutter projects using solid_lints, CI for tests and analysis.
+# Color Generator App
 
-- Uses latest stable flutter
-- Repo name as your project name
-- Organization from your profile email address or default
+## Functionality of the app
+  - Tap anywhere on the screen to instantly change the background color to a randomly generated color with smooth color transformation.
+  - Adaptive text color: Text in the center dynamically adjusts between white and black based on the background color, ensuring optimal       readability.
+  - Color history: Browse through a curated collection of previously generated colors.
+  - Select and apply: Choose your favorite color from the history list and apply it as the new background with a single tap.
 
-# Usage
-1. Press "Use this template" on the menu.
-2. Fill Github form with your new repo name and press "Create repository from template"
-3. Wait for it to be created and set up action is complete. In a couple of minutes, you'll see the flutter project created in your repo once Github Actions are complete.
-4. Clone and code.
+## Screenshots
+
+<img src="https://github.com/Fasikawkn/color_generator/assets/56532140/0f258f5c-571b-47e7-b5af-ee104b475b18" width="300" height="650" />
+<img src="https://github.com/Fasikawkn/color_generator/assets/56532140/3aa4bafd-34f1-45a4-8cd5-f8d05caaedec" width="300" height="650" />
+<img src="https://github.com/Fasikawkn/color_generator/assets/56532140/1726ff81-3d49-4778-9c64-d8a47373047d" width="300" height="650" />
+
+## Video Demo
+
+[screesh_record.webm](https://github.com/Fasikawkn/color_generator/assets/56532140/5c36ff2f-fd75-4552-92c9-d50f438930d6)
